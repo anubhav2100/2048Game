@@ -237,5 +237,5 @@ function stop()
         }
     }
     if(a && b)
-    alert('Game over');
+    alert('Hey! Game is over Your Score is ' + score.toString() + ' Please Refresh the page to start new one');
   }
